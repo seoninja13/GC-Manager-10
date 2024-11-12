@@ -1,6 +1,6 @@
 # GC App
 
-## Environment Setup
+## Environment Setup - test
 
 1. Copy the environment example file:
 ```bash
